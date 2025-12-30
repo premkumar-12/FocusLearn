@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Focus+Learn",
+  "version": "1.0",
+  "description": "Detects user presence and pauses video when attention is lost",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": { "service_worker": "background.js" }
+}

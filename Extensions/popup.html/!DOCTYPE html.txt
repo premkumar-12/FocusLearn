@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Focus+Learn</title>
+</head>
+<body>
+  <h2>Focus+Learn</h2>
+  <button id="start">Start Monitoring</button>
+  <button id="stop">Stop Monitoring</button>
+
+<script src="popup.js"></script>
+</body>
+</html>

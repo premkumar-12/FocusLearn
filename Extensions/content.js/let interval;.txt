@@ -1,0 +1,15 @@
+let interval;
+
+function pauseVideo() {
+    const video = document.querySelector("video");
+    if (video) video.pause();
+}
+
+chrome.runtime.onMessage.addListener((req) => {
+    if (req.action === "start") {
+        interval = setInterval(() => {
+            chrome.runtime.sendMessage({checkFace: true});
+        }, 2000);
+    }
+    if (req.action === "stop") clearInterval(interval);
+});

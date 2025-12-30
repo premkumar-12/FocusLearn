@@ -1,0 +1,3 @@
+# placeholder for future AI quiz generation logic
+
+print("Quiz generation module placeholder")

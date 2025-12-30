@@ -1,0 +1,16 @@
+# Focus+Learn – AI Based Learning Focus Booster
+
+A tool that improves online learning by:
+- Detecting student focus using webcam
+- Pausing video when distraction is detected
+- Preventing skipping content
+- Generating automatic quizzes (future feature)
+- Improving retention + productivity
+
+## Tech
+- JavaScript (Chrome Extension)
+- Python (OpenCV Face Detection)
+- NLP Quiz Gen (Coming soon)
+
+This is our Smart India Hackathon 2025 project.
+Work in Progress.
