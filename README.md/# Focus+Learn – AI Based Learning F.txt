@@ -1,16 +1,36 @@
-# Focus+Learn – AI Based Learning Focus Booster
+# 🚀 Focus+Learn – AI Based Learning Focus Booster  
+A Smart India Hackathon 2025 project designed to improve online learning by increasing focus, reducing distractions, and boosting retention through AI monitoring and interactive learning.
 
-A tool that improves online learning by:
-- Detecting student focus using webcam
-- Pausing video when distraction is detected
-- Preventing skipping content
-- Generating automatic quizzes (future feature)
-- Improving retention + productivity
+---
 
-## Tech
-- JavaScript (Chrome Extension)
-- Python (OpenCV Face Detection)
-- NLP Quiz Gen (Coming soon)
+## 🔥 Features
 
-This is our Smart India Hackathon 2025 project.
-Work in Progress.
+| Feature | Description |
+|--------|-------------|
+| 👀 **Focus Detection** | Tracks learner presence using webcam & pauses video when distracted |
+| ⛔ **Anti-Skip Mode** | Prevents users from skipping educational content |
+| 🤖 **Auto Quiz Generation** | (Upcoming) Converts lectures into questions automatically |
+| 🏆 **Productivity Gamification** | Rewards, streaks & badges to keep learners motivated |
+
+---
+
+## 🧠 Why this project?
+
+Long learning videos reduce focus and lead to poor retention.  
+This tool ensures active learning by monitoring attention and providing periodic quizzes.
+
+---
+
+## 🧩 Tech Stack
+
+| Category | Tools Used |
+|---------|------------|
+| Frontend | JavaScript (Chrome Extension) |
+| Backend | Python (Flask planned) |
+| AI/ML | OpenCV for Face Detection |
+| Other | NLP-based quiz generation (future) |
+
+---
+
+## 📂 Project Structure
+
